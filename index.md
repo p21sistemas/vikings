@@ -1,4 +1,4 @@
-## Bem vindo ao processo de recrutamento da equioe web da P21 Sistemas.
+## Bem vindo ao processo de recrutamento da equipe web da P21 Sistemas.
 
 
 # Recrutamento - Agente (_Desenvolvedor PHP)
@@ -41,7 +41,7 @@ Para concluírmos essa missão, serão necessários seguir alguns passos:
 ## 4º Passo: Ponto de encontro
  - Entraremos em contato para agendarmos sua ida ao ponto de encontro.
  
- ## Emails para contato:
+## Emails para contato:
 	email@p21sistemas.com.br;
 
 
