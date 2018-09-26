@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Bem vindo ao time web
 
-You can use the [editor on GitHub](https://github.com/p21sistemas/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Recrutamento - Agente (_Desenvolvedor .NET_)
 
-### Markdown
+## Requisitos:
+ - PHP.
+ - MySQL.
+ - Orientação a Objetos.
+ - HTML|CSS 
+ - MVC.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Requisitos desejáveis:
+ - Bootstrap.
 
-```markdown
-Syntax highlighted code block
+## Emails para contato:
+	email@p21sistemas.com.br;
 
-# Header 1
-## Header 2
-### Header 3
+## Desafio21:
 
-- Bulleted
-- List
+_"O desafio nos move"_ é uma frase muito utilizada na P21 Sistemas, pensando nela, preparamos uma missão para você:
 
-1. Numbered
-2. List
+Para concluírmos essa missão, serão necessários seguir alguns passos:
 
-**Bold** and _Italic_ and `Code` text
+## 1º Passo: Preparação
+ - Envie seu usuário do gitHub para os emails de contato;
+ - Aguarde novas instruções por email;
+	
+  <form action="https://formspree.io/jerfeson@p21sistemas.com.br"
+      method="POST">
+    <input type="text" name="usuarioGitHub">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form> 
 
-[Link](url) and ![Image](src)
-```
+## 2º Passo: Missão
+ - [Clique aqui](https://gist.github.com/p21sistemas/0deca1c6ebc998e14fd46a99f0b0c99e) para acessar sua missão.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 3º Passo: Missão cumprida
+ - Avise-nos pelos emails para contato que a missão foi cumprida.
+	
+## 4º Passo: Ponto de encontro
+ - Entraremos em contato para agendarmos sua ida ao ponto de encontro.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p21sistemas/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
