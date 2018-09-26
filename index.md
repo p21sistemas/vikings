@@ -4,10 +4,11 @@
 # Recrutamento - Agente (_Desenvolvedor PHP)
 
 ## Requisitos:
- - PHP.
- - MySQL.
- - Orientação a Objetos.
- - HTML|CSS 
+ - PHP;
+ - MySQL;
+ - Orientação a Objetos;
+ - HTML;
+ - CSS;
  - MVC.
 
 ## Requisitos desejáveis:
@@ -26,11 +27,12 @@ Para concluírmos essa missão, serão necessários seguir alguns passos:
  - Envie seu usuário do gitHub para os emails de contato;
  - Aguarde novas instruções por email;
 	
-<form action="https://formspree.io/jerfeson@p21sistemas.com.br" method="POST">
-	<input type="text" name="usuarioGitHub" placeholder="usuario do github">
-	<input type="email" name="_replyto" placeholder="Seu e-mail" >
+<form action="https://formspree.io/jerfeson@p21sistemas.com.br" method="POST" target="_blank">
+	<input type="text" name="usuario_git_hub" placeholder="usuario do github" required>
+	<input type="email" name="email" placeholder="Seu e-mail" required>
 	<input type="submit" value="Enviar">
 </form> 
+
 
 ## 2º Passo: Missão
  - [Clique aqui]() para acessar sua missão.
