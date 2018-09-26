@@ -1,7 +1,7 @@
 ## Bem vindo ao processo de recrutamento da equipe web da P21 Sistemas.
 
 
-# Recrutamento - Agente (_Desenvolvedor PHP)
+# Recrutamento - (_Desenvolvedor PHP)
 
 ## Requisitos:
  - PHP;
@@ -16,11 +16,11 @@
 
 ## Desafio21:
 
-_"O desafio nos move"_ é uma frase muito utilizada na P21 Sistemas, pensando nela, preparamos uma missão para você:
+_"O desafio nos move"_ , e pensando nisso, preparamos uma para você.
 
-Para concluírmos essa missão, serão necessários seguir alguns passos:
+Para dar inicio ao desafio, precisará seguir alguns passos:
 
-## 1º Passo: Preparação
+## 1º Passo: Prepar_ação_
  - Envie seu usuário do gitHub e seu e-mail;
  
  <form action="https://formspree.io/jerfeson@p21sistemas.com.br" method="POST" target="_blank">
@@ -29,17 +29,16 @@ Para concluírmos essa missão, serão necessários seguir alguns passos:
 	<input type="submit" value="Enviar">
 </form> 
 
- - Aguarde novas instruções por email;
+ - Aguarde que enviaremos novas instruções no seu e-mail;
 	
-## 2º Passo: Missão
-
+## 2º Passo: O Desafio
 	U2Fjb3UgcXVlIMOpIHVtIGJhc2U2NCwgasOhIHZlbmNldSBvIHByaW1laXJvIGRlc2FmaW8gOlAsIHV0aWxpemUgbyBsaW5rIHBhcmEgYWNlc3NhciBhIHDDoWdpbmEgZSB2aXN1YWxpemFyIG9zIGRldGFsaGVzIGRhIG1pc3PDo28gKGxpbmsp
 
-## 3º Passo: Missão cumprida
- - Avise-nos pelos emails para contato que a missão foi cumprida.
+## 3º Passo: Missão cumprida 
+ - Avise-nos pelos e-mails de contato que o deságio foi concluído.
 	
 ## 4º Passo: Ponto de encontro
- - Entraremos em contato para agendarmos sua ida ao ponto de encontro.
+ - Entraremos em contato para agendarmos sua ida ao nosso ponto de encontro.
  
 ## Emails para contato:
 	email@p21sistemas.com.br;
