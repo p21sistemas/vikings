@@ -44,7 +44,7 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
     fernando@p21sistemas.com.br
 	
 ## 4º Passo: Ponto de encontro
- - Peço que aguarde, em breve enviaremos novas instruções e a qual será nosso ponto de encontro.
+ - Peço que aguarde, em breve enviaremos novas instruções e qual será nosso ponto de encontro.
 
 
 
