@@ -1,15 +1,22 @@
-## Bem vindo ao processo de recrutamento da equipe web da P21 Sistemas.
+## Bem vindo ao processo de recrutamento da equipe VIKINGS da P21 Sistemas.
 
 
 # Recrutamento - (_Desenvolvedor PHP)
 
 ## Requisitos:
- - PHP;
- - MySQL;
- - Orientação a Objetos;
- - HTML;
- - CSS;
- - MVC.
+- Apache
+- PHP
+- MySQL
+- HTML/CSS
+- Javascript
+## Frameworks recomendados:
+- PHP: Zend Framework 2
+- Javascript: Jquery
+- CSS: Bootstrap
+- Quero desenvolver um?!
+  .Pode ser utilizado o Composer
+
+
 
 ## Requisitos desejáveis:
  - Bootstrap.
