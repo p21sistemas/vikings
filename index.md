@@ -1,8 +1,6 @@
-## P21 Sistemas
-## Bem vindo ao processo de recrutamento da equipe VIKINGS
+## A P21 Sistemas te deseja boas vindas ao processo de recrutamento da equipe VIKINGS.
 
-
-# Recrutamento - (_Desenvolvedor PHP)
+# Recrutamento para _Desenvolvedor PHP_
 
 ## Requisitos:
 - Apache
@@ -10,6 +8,7 @@
 - MySQL
 - HTML/CSS
 - JavaScript
+
 ## Frameworks recomendados:
 - PHP: Zend Framework 2
 - JavaScript: jQuery
@@ -18,9 +17,6 @@
 - ou você poderá desenvolver seu próprio framework :)
 
 `Pode ser utilizado o Composer`
-
-## Requisitos desejáveis:
- - Bootstrap.
 
 ## Desafio21:
 
@@ -40,10 +36,10 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
 ## 2º Passo: O Desafio
 	U2Fjb3UgcXVlIMOpIHVtIEJhc2U2NCBuw6ksIHByaW1laXJvIGRlc2FmaW8gY29uY2x1w61kbyA6UCBVdGlsaXplIG8gbGluayBwYXJhIGFjZXNzYXIgYSBww6FnaW5hIGUgdmlzdWFsaXphciBvcyBkZXRhbGhlcyBkZSBzdWEgbm92YSBtaXNzw6NvIChodHRwczovL2dpc3QuZ2l0aHViLmNvbS9wMjFzaXN0ZW1hcy80OTgzYzk2NTM4Mjg1MzM5ZDFkZmVlYTgwOGQ1ZjVhNyk
 
-## 3º Passo: Desafio concluído?! 
- - Avise-nos pelos e-mails de contato que o desafio foi concluído.
-  . alfredo@p21sistemas.com.br
-  . fernando@p21sistemas.com.br
+## 3º Passo: Desafio concluído!?
+ - Avise-nos pelos e-mails de contato que o desafio foi concluído
+    alfredo@p21sistemas.com.br
+    fernando@p21sistemas.com.br
 	
 ## 4º Passo: Ponto de encontro
  - Peço que aguarde, em breve enviaremos novas instruções e a qual será nosso ponto de encontro.
