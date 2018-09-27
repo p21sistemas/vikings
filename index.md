@@ -40,8 +40,8 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
 
 ## 3º Passo: Desafio concluído!?
  - Avise-nos pelos e-mails de contato que o desafio foi concluído
-    alfredo@p21sistemas.com.br
-    fernando@p21sistemas.com.br
+ * alfredo@p21sistemas.com.br
+ * fernando@p21sistemas.com.br
 	
 ## 4º Passo: Ponto de encontro
  - Peço que aguarde, em breve enviaremos novas instruções e qual será nosso ponto de encontro.
