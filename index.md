@@ -1,4 +1,5 @@
-## Bem vindo ao processo de recrutamento da equipe VIKINGS da P21 Sistemas.
+## P21 Sistemas
+## Bem vindo ao processo de recrutamento da equipe VIKINGS
 
 
 # Recrutamento - (_Desenvolvedor PHP)
@@ -8,46 +9,43 @@
 - PHP
 - MySQL
 - HTML/CSS
-- Javascript
+- JavaScript
 ## Frameworks recomendados:
 - PHP: Zend Framework 2
-- Javascript: Jquery
+- JavaScript: jQuery
 - CSS: Bootstrap
-- Quero desenvolver um?!
-  .Pode ser utilizado o Composer
+- ORM: Doctrine 2
+- ou você poderá desenvolver seu próprio framework :)
 
-
+`Pode ser utilizado o Composer`
 
 ## Requisitos desejáveis:
  - Bootstrap.
 
 ## Desafio21:
 
-_"O desafio nos move"_ , e pensando nisso, preparamos uma para você.
+_"O desafio nos move"_ e, pensando nisso, preparamos um para você.
 
-Para dar inicio ao desafio, precisará seguir alguns passos:
+Para dar inicio ao desafio, você precisará seguir alguns passos:
 
 ## 1º Passo: PreparAção
  - Envie seu usuário do gitHub e seu e-mail;
  
- <form action="https://formspree.io/jerfeson@p21sistemas.com.br" method="POST" target="_blank">
+ <form action="https://formspree.io/alfredo@p21sistemas.com.br" method="POST" target="_blank">
 	<input type="text" name="usuario_git_hub" placeholder="usuario do github" required>
-	<input type="email" name="email" placeholder="Seu e-mail" required>
+	<input type="email" name="email" placeholder="seu e-mail" required>
 	<input type="submit" value="Enviar">
 </form> 
-
- - Aguarde que enviaremos novas instruções;
 	
 ## 2º Passo: O Desafio
-	U2Fjb3UgcXVlIMOpIHVtIGJhc2U2NCwgasOhIHZlbmNldSBvIHByaW1laXJvIGRlc2FmaW8gOlAsIHV0aWxpemUgbyBsaW5rIHBhcmEgYWNlc3NhciBhIHDDoWdpbmEgZSB2aXN1YWxpemFyIG9zIGRldGFsaGVzIGRhIG1pc3PDo28gKGxpbmsp
+	U2Fjb3UgcXVlIMOpIHVtIEJhc2U2NCBuw6ksIHByaW1laXJvIGRlc2FmaW8gY29uY2x1w61kbyA6UCBVdGlsaXplIG8gbGluayBwYXJhIGFjZXNzYXIgYSBww6FnaW5hIGUgdmlzdWFsaXphciBvcyBkZXRhbGhlcyBkZSBzdWEgbm92YSBtaXNzw6NvIChodHRwczovL2dpc3QuZ2l0aHViLmNvbS9wMjFzaXN0ZW1hcy80OTgzYzk2NTM4Mjg1MzM5ZDFkZmVlYTgwOGQ1ZjVhNyk
 
-## 3º Passo: Desafio concluído ?! 
+## 3º Passo: Desafio concluído?! 
  - Avise-nos pelos e-mails de contato que o desafio foi concluído.
+  . alfredo@p21sistemas.com.br
+  . fernando@p21sistemas.com.br
 	
 ## 4º Passo: Ponto de encontro
- - Entraremos em contato para agendarmos sua ida ao nosso ponto de encontro.
- 
-## Emails para contato:
-	email@p21sistemas.com.br;
+ - Peço que aguarde, em breve enviaremos novas instruções e a qual será nosso ponto de encontro.
 
 
