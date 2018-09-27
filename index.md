@@ -1,3 +1,5 @@
+![Vikings](https://i.imgur.com/CF5sgS5.png)
+
 ## A P21 Sistemas te deseja boas vindas ao processo de recrutamento da equipe VIKINGS.
 
 # Recrutamento para _Desenvolvedor PHP_
@@ -43,5 +45,6 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
 	
 ## 4º Passo: Ponto de encontro
  - Peço que aguarde, em breve enviaremos novas instruções e a qual será nosso ponto de encontro.
+
 
 
