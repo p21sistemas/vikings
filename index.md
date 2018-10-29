@@ -10,8 +10,8 @@
 
 ## Nossas redes sociais:
 
-- https://www.facebook.com/p21sistemas/
-- https://www.instagram.com/p21sistemas/
+- [Facebook](https://www.facebook.com/p21sistemas/)
+- [Instagram](https://www.instagram.com/p21sistemas/)
 
 ## Sobre o recutamento:
 
