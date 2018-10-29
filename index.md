@@ -1,5 +1,7 @@
 ![Vikings](https://i.imgur.com/CF5sgS5.png)
 
+# A P21 Sistemas te deseja boas vindas ao processo de recrutamento da equipe VIKINGS.
+
 # Conheça a P21 Sistemas
 
 ## DNA P21 Sistemas:
@@ -8,14 +10,12 @@ https://youtu.be/rKKN_w5IiVY
 
 ## Nossas redes sociais:
 
-- https://pt-br.facebook.com/p21sistemas/
+- https://www.facebook.com/p21sistemas/
 - https://www.instagram.com/p21sistemas/
 
 ## Sobre o recutamento:
 
 Faixa salarial: R$4.000,00 a R$5.500,00
-
-## A P21 Sistemas te deseja boas vindas ao processo de recrutamento da equipe VIKINGS.
 
 # Recrutamento para _Desenvolvedor PHP_
 
@@ -42,7 +42,7 @@ _"O desafio nos move"_ e, pensando nisso, preparamos um para você.
 Para dar inicio ao desafio, você precisará seguir alguns passos:
 
 ## 1º Passo: PreparAção
- - Envie seu usuário do gitHub e seu e-mail. Iremos criar o seu repositório privado em até 24hs e te avisaremos por e-mail. Enquanto isso, decifre o desafio do 2º passo para ter acesso ao Desafio Final;
+ - Envie seu usuário do GitHub e seu e-mail. Iremos criar o seu repositório privado em até 24hs e te avisaremos por e-mail. Enquanto isso, decifre o desafio do 2º passo para ter acesso ao Desafio Final;
  
  <form action="https://formspree.io/alfredo@p21sistemas.com.br" method="POST" target="_blank">
 	<input type="text" name="usuario_git_hub" placeholder="usuario do github" required>
