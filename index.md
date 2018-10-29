@@ -6,9 +6,7 @@
 
 ## Assista nosso vídeo institucional e conheça o nosso DNA:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=rKKN_w5IiVY
-" target="_blank"><img src="http://img.youtube.com/vi/rKKN_w5IiVY/0.jpg" 
-alt="DNA P21 SISTEMAS" width="240" height="180" border="10" /></a>
+[![DNA P21 SISTEMAS](http://img.youtube.com/vi/rKKN_w5IiVY/0.jpg)](http://www.youtube.com/watch?v=rKKN_w5IiVY)
 
 ## Nossas redes sociais:
 
