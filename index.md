@@ -4,9 +4,9 @@
 
 # Conheça a P21 Sistemas
 
-## DNA P21 Sistemas:
+## Assista nosso vídeo institucional e conheça o nosso DNA:
 
-https://youtu.be/rKKN_w5IiVY
+[![DNA P21 SISTEMAS](http://img.youtube.com/vi/rKKN_w5IiVY/0.jpg)](http://www.youtube.com/watch?v=rKKN_w5IiVY)
 
 ## Nossas redes sociais:
 
