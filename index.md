@@ -11,7 +11,7 @@ https://youtu.be/rKKN_w5IiVY
 - https://pt-br.facebook.com/p21sistemas/
 - https://www.instagram.com/p21sistemas/
 
-## Sobre o recutamento
+## Sobre o recutamento:
 
 Faixa salarial: R$4.000,00 a R$5.500,00
 
