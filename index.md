@@ -47,7 +47,7 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
  <form action="https://formspree.io/fernando@p21sistemas.com.br" method="POST" target="_blank">
 	<input type="text" name="usuario_git_hub" placeholder="usuario do github" required>
 	<input type="email" name="email" placeholder="seu e-mail" required>
-	<input type="email" name="telefone" placeholder="seu telefone" required>
+	<input type="text" name="telefone" placeholder="seu telefone com ddd" required>
 	<input type="submit" value="Enviar">
 </form> 
 	
