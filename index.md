@@ -44,9 +44,10 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
 ## 1º Passo: PreparAção
  - Envie seu usuário do GitHub e seu e-mail. Iremos criar o seu repositório privado em até 24hs e te avisaremos por e-mail. Enquanto isso, decifre o desafio do 2º passo para ter acesso ao Desafio Final;
  
- <form action="https://formspree.io/alfredo@p21sistemas.com.br" method="POST" target="_blank">
+ <form action="https://formspree.io/fernando@p21sistemas.com.br" method="POST" target="_blank">
 	<input type="text" name="usuario_git_hub" placeholder="usuario do github" required>
 	<input type="email" name="email" placeholder="seu e-mail" required>
+	<input type="email" name="telefone" placeholder="seu telefone" required>
 	<input type="submit" value="Enviar">
 </form> 
 	
