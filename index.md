@@ -15,7 +15,7 @@
 
 ## Sobre o recutamento:
 
-Faixa salarial: R$4.000,00 a R$5.500,00
+Faixa salarial: R$4.000,00 a R$5.500,00 + benefícios
 
 # Recrutamento para _Desenvolvedor PHP_
 
