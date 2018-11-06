@@ -52,11 +52,11 @@ Para dar inicio ao desafio, você precisará seguir alguns passos:
 </form> 
 	
 ## 2º Passo: O Desafio 
-Decifre e siga as instruções antes de avançar para o 3º passo
+Decifre o código abaixo e siga as instruções antes de avançar para o 3º passo
 `U2Fjb3UgcXVlIMOpIHVtIEJhc2U2NCBuw6ksIHByaW1laXJvIGRlc2FmaW8gY29uY2x1w61kbyA6UCBVdGlsaXplIG8gbGluayBwYXJhIGFjZXNzYXIgYSBww6FnaW5hIGUgdmlzdWFsaXphciBvcyBkZXRhbGhlcyBkZSBzdWEgbm92YSBtaXNzw6NvIChodHRwczovL2dpc3QuZ2l0aHViLmNvbS9wMjFzaXN0ZW1hcy80OTgzYzk2NTM4Mjg1MzM5ZDFkZmVlYTgwOGQ1ZjVhNyk`
 
 ## 3º Passo: Decifrou o 2º passo e concluiu o desafio final!?
- - Avise-nos que o desafio foi concluído pelos seguintes e-mails:
+ - Avise-nos que o desafio final foi concluído pelos seguintes e-mails:
  * alfredo@p21sistemas.com.br
  * fernando@p21sistemas.com.br
 	
