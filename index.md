@@ -46,7 +46,7 @@ Decifre o código abaixo e siga as instruções para ter acesso ao desafio final
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 02/11
 
 ## Decifrou o 2º passo e concluiu o desafio final!?
- - Avise-nos que o desafio final foi concluído pelos seguintes e-mails:
+ * Envie o código ou o link de acesso ao repositório para os seguintes e-mails
  * alfredo@p21sistemas.com.br
  * fernando@p21sistemas.com.br
 	
