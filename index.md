@@ -44,7 +44,7 @@ _"O desafio nos move"_ e, pensando nisso, preparamos um para você. Decifre o c�
 
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 02/11
 
-## Decifrou o 2º passo e concluiu o desafio final!?
+## Decifrou o código acima e concluiu o desafio final!?
  * Envie o código ou o link de acesso ao repositório para os seguintes e-mails
  * alfredo@p21sistemas.com.br
  * fernando@p21sistemas.com.br
