@@ -42,7 +42,7 @@ _"O desafio nos move"_ e, pensando nisso, preparamos um para você. Decifre o c�
 
 `U2Fjb3UgcXVlIMOpIHVtIEJhc2U2NCBuw6ksIHByaW1laXJvIGRlc2FmaW8gY29uY2x1w61kbyA6UCBVdGlsaXplIG8gbGluayBwYXJhIGFjZXNzYXIgYSBww6FnaW5hIGUgdmlzdWFsaXphciBvcyBkZXRhbGhlcyBkZSBzdWEgbm92YSBtaXNzw6NvIChodHRwczovL2dpc3QuZ2l0aHViLmNvbS9wMjFzaXN0ZW1hcy80OTgzYzk2NTM4Mjg1MzM5ZDFkZmVlYTgwOGQ1ZjVhNyk`
 
-# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 02/11
+# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 9/12
 
 ## Decifrou o código acima e concluiu o desafio final!?
  * Envie o código ou o link de acesso ao repositório para os seguintes e-mails
