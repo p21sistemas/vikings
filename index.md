@@ -18,7 +18,7 @@
 ## Sobre o processo seletivo:
 
 - Faixa salarial: R$4.000,00 a R$5.500,00 + benefícios
-- _Nível pleno_
+- Nível pleno
 - Contratação imediata
 
 ## Requisitos:
@@ -46,10 +46,10 @@ https://gist.github.com/p21sistemas/4983c96538285339d1dfeea808d5f5a7
 
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/10/2019
 
-# Concluiu o desafio!? Estamos ansiosos por te conhece!
+# Concluiu o desafio!? Estamos ansiosos para conhecer!
  * Envie o código ou o link de acesso ao repositório para os seguintes e-mails
  * wilson@p21sistemas.com.br ou fernando@p21sistemas.com.br
  * Neste mesmo e-mail anexe seu currículo e faça uma breve descrição sobre você e suas experências (diferencial enviar um vídeo).
 	
 ## Ponto de encontro
- - Aguarde o nosso contato! Em breve enviaremos as instruções sobre o ponto de encontro.
+ - Aguarde o nosso contato! Enviaremos as instruções sobre o ponto de encontro.
