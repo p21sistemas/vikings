@@ -33,10 +33,10 @@
 - CSS: Bootstrap
 - Framework PHP próprio
 
+`Pode ser utilizado o Composer`
+
 ## O que iremos analisar?
 - Conhecimentos sólidos em MVC, POO, Design Patterns e Testes automatizados
-
-`Pode ser utilizado o Composer`
 
 ## Desafio21
 
