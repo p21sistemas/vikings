@@ -6,7 +6,7 @@
 
 ## Antes de começar o desafio, assista o vídeo abaixo para conhecer a P21 e um pouco do nosso DNA.
 
-[![DNA P21 SISTEMAS](http://img.youtube.com/vi/rKKN_w5IiVY/0.jpg)](http://www.youtube.com/watch?v=rKKN_w5IiVY)(https://youtu.be/EnxjxqjHtxM)
+[![DNA P21 SISTEMAS](http://img.youtube.com/vi/rKKN_w5IiVY/0.jpg)](http://www.youtube.com/watch?v=rKKN_w5IiVY)(http://img.youtube.com/vi/EnxjxqjHtxM/0.jpg)](http://www.youtube.com/watch?v=EnxjxqjHtxM)
 
 ## Você pode nos conhecer também pelas redes sociais:
 
