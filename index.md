@@ -13,7 +13,7 @@
 - [Facebook](https://www.facebook.com/p21sistemas/)
 - [Instagram](https://www.instagram.com/p21sistemas/)
 
-# Recrutamento para _Desenvolvedor PHP_
+# Recrutamento para _Desenvolvedor PHP Pleno_
 
 ## Sobre o processo seletivo:
 
@@ -36,19 +36,19 @@
 `Pode ser utilizado o Composer`
 
 ## O que iremos analisar?
-- Conhecimentos sólidos em MVC, POO, Design Patterns e Testes automatizados
+- Conhecimentos sólidos em MVC, POO e Design Patterns (diferencial testes automatizados).
 
 ## Desafio21
 
-_"O desafio nos move"_ e, pensando nisso, preparamos um para você. Siga todas as instruções.
+_"We are revolution"_ e, pensando nisso, preparamos um para você. Siga todas as instruções do link abaixo.
 
 https://gist.github.com/p21sistemas/4983c96538285339d1dfeea808d5f5a7
 
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/10/2019
 
 # Concluiu o desafio!? Estamos ansiosos para te conhecer!
- * Envie o código ou o link de acesso ao repositório para os seguintes e-mails wilson@p21sistemas.com.br ou fernando@p21sistemas.com.br
- * Faça uma breve descrição sobre você e suas experências (diferencial enviar um vídeo).
+ * Envie o código ou o link de acesso ao repositório para o e-mail vikings@p21sistemas.com.br
+ * Faça uma breve descrição sobre você e suas experências (preferencialmente envie um vídeo).
 	
 ## Ponto de encontro
- - Aguarde o nosso contato! Enviaremos as instruções sobre o ponto de encontro.
+ - Aguarde o nosso contato! Enviaremos as instruções sobre o próximo passo.
