@@ -17,7 +17,7 @@
 
 ## Sobre o processo seletivo:
 
-- Faixa salarial: R$4.000,00 a R$5.500,00 + benefícios
+- Faixa salarial: R$5.500,00 a R$6.800,00 + benefícios
 - Nível pleno
 - Contratação imediata
 
