@@ -48,7 +48,7 @@ https://gist.github.com/p21sistemas/4983c96538285339d1dfeea808d5f5a7
 
 # Concluiu o desafio!? Estamos ansiosos para te conhecer!
  * Envie o código ou o link de acesso ao repositório para o e-mail vikings@p21sistemas.com.br
- * Faça uma breve descrição sobre você e suas experências (preferencialmente envie um vídeo).
+ * Faça uma breve apresentação sobre você e suas experências (preferencialmente envie em vídeo).
 	
 ## Ponto de encontro
  - Aguarde o nosso contato! Enviaremos as instruções sobre o próximo passo.
