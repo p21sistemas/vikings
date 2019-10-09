@@ -40,7 +40,7 @@
 
 ## Desafio21
 
-_Uma vida sem desafios não vale a pena ser vivida._ Sócrates
+_Uma vida sem desafios não vale a pena ser vivida._ Autor: Sócrates
 
 Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio especialmente para você. Pronto para começar? Clique no link abaixo.
 
