@@ -42,9 +42,9 @@
 
 _"Uma vida sem desafios não vale a pena ser vivida."_ Autor: Sócrates
 
-Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio especialmente para você. Pronto para começar? Clique no link abaixo.
+Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio especialmente para você. Pronto para começar? Clique no link abaixo para participar.
 
-https://gist.github.com/p21sistemas/4983c96538285339d1dfeea808d5f5a7
+http://bit.ly/desafio-vikings
 
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/10/2019
 
