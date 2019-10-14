@@ -17,7 +17,7 @@
 
 ## Sobre o processo seletivo:
 
-- Faixa salarial: R$5.500,00 a R$6.800,00 + benefícios
+- Faixa salarial: R$6.060,29 a R$6.800,00 + benefícios
 - Nível pleno
 - Contratação imediata
 
@@ -29,8 +29,8 @@
 - JavaScript
 
 ## Frameworks permitidos no desafio:
-- JavaScript: jQuery
-- CSS: Bootstrap
+- jQuery
+- Bootstrap
 - Framework PHP próprio
 
 `Pode ser utilizado o Composer`
@@ -46,7 +46,7 @@ Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio e
 
 http://bit.ly/desafio-vikings
 
-# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 20/10/2019
+# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 21/10/2019
 
 # Concluiu o desafio!? Estamos ansiosos para te conhecer!
  * Envie o código ou o link de acesso ao repositório para o e-mail vikings@p21sistemas.com.br
