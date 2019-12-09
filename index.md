@@ -46,7 +46,7 @@ Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio e
 
 http://bit.ly/desafio-vikings
 
-# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 21/10/2019
+# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 16/12/2019
 
 # Concluiu o desafio!? Estamos ansiosos para te conhecer!
  * Envie o código ou o link de acesso ao repositório para o e-mail vikings@p21sistemas.com.br
