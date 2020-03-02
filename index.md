@@ -17,7 +17,7 @@
 
 ## Sobre o processo seletivo:
 
-- Faixa salarial: R$6.060,29 a R$6.800,00 + benefícios
+- Faixa salarial: a partir de R$6.060,29 + benefícios
 - Nível pleno
 - Contratação imediata
 
@@ -44,9 +44,9 @@ _"Uma vida sem desafios não vale a pena ser vivida."_ Autor: Sócrates
 
 Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio especialmente para você. Pronto para começar? Clique no link abaixo para participar.
 
-http://bit.ly/desafio-vikings
+http://bit.ly/processo-seletivo-vikings
 
-# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 16/12/2019
+# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/2/2020
 
 # Concluiu o desafio!? Estamos ansiosos para te conhecer!
  * Envie o código ou o link de acesso ao repositório para o e-mail vikings@p21sistemas.com.br
