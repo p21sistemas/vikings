@@ -44,7 +44,7 @@ _"Uma vida sem desafios não vale a pena ser vivida."_ Autor: Sócrates
 
 Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio especialmente para você. Pronto para começar? Clique no link abaixo para participar.
 
-http://bit.ly/processo-seletivo-vikings-02-03-2020
+http://bit.ly/desafio-vikings-02-03-2020
 
 # ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/2/2020
 
