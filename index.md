@@ -46,7 +46,7 @@ Os desafios fazem parte do nosso dia a dia. Pensando nisso, fizemos um desafio e
 
 http://bit.ly/desafio-vikings-02-03-2020
 
-# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/2/2020
+# ATENÇÃO: O PRAZO PARA CONCLUIR O DESAFIO É ATÉ 13/3/2020
 
 # Concluiu o desafio!? Estamos ansiosos para te conhecer!
  * Envie o código ou o link de acesso ao repositório para o e-mail vikings@p21sistemas.com.br
